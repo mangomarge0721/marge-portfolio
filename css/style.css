@@ -147,7 +147,7 @@ span {
     width: 300px;
     box-shadow: 0 0 25px black,
                 0 0 50px black;     
-    border-radius: 50%;
+    border-radius: 5%;
 }
 
 ::-webkit-scrollbar {
